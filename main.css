@@ -1,0 +1,19 @@
+.service{
+    text-align: center;
+}
+
+.services{
+    width:33.3%;
+    float: left;
+}
+
+.clearfix{
+    clear: both;
+}
+
+i{
+    color: white;
+    background-color: #fbff00c4;
+    font-size: 50px;
+}
+
